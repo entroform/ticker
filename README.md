@@ -1,2 +1,5 @@
-# ticker
+# ⏲ ticker
 
+## Install
+
+`npm i ticker`
